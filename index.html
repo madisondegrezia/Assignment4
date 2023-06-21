@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hang In There</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="script.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <h1>Motivational Posters</h1>
+    </header>
+
+    <section class="poster">
+      <div class="grow">
+        <img
+          id="poster-image"
+          src="./images/mindset.png"
+          alt="Motivational Poster"
+        />
+      </div>
+      <h2 id="poster-title">The Right Mindset</h2>
+      <h3 id="poster-quote">Mindset is everything</h3>
+    </section>
+
+    <button id="randomize">Randomize</button>
+
+    <form id="poster-form">
+      <input type="text" id="poster-form-title" placeholder="Enter title" />
+      <input
+        type="text"
+        id="poster-form-quote"
+        placeholder="Enter custom quote"
+      />
+      <input type="text" id="poster-form-image" placeholder="Enter image url" />
+      <button id="submit">Submit</button>
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
