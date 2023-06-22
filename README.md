@@ -5,7 +5,7 @@
 * [ScreenShots](#ScreenShots)
 
 ## Task Description
-In this project, you will create a motivational poster generator where users can view random posters or create their own custom posters. The project will focus on manipulating the DOM using JavaScript to update the poster content dynamically. You will also implement event handling to generate random posters and handle custom poster creation.
+In this project, you will create a motivational poster generator where users can view random posters or create their own custom posters. The project will focus on manipulating the DOM using JavaScript to update the poster content dynamically. You will also implement event handling to generate random posters and handle custom poster creation. 
 
 ## Screenshots
 <img src="https://github.com/madisondegrezia/Assignment4/assets/89614960/0be4efcf-51ff-4834-bae5-63f5a09b9502" width=60% height=60%>
